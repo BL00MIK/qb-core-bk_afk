@@ -11,3 +11,5 @@ Custom NUI with smooth blur effect.
 Interactive countdown timer with a cancel option.
 
 Highly optimized: 0.00ms idle & working!
+
+Discord Link : https://discord.gg/CPE4ZMXD6k
